@@ -1,0 +1,27 @@
+{
+    "sport": {
+        "said": 428,
+        "game": 353,
+        "win": 288
+    },
+    "business": {
+        "said": 724,
+        "us": 377,
+        "year": 360
+    },
+    "tech": {
+        "said": 757,
+        "use": 459,
+        "peopl": 427
+    },
+    "entertainment": {
+        "film": 450,
+        "said": 386,
+        "year": 249
+    },
+    "politics": {
+        "said": 996,
+        "mr": 726,
+        "would": 495
+    }
+}
