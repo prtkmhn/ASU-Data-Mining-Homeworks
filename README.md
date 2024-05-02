@@ -12,5 +12,5 @@ git clone https://github.com/prtkmhn/Data-Mining-Homeworks.git
 
 Usage 🚀
 Navigate to the specific homework or lab directory and follow the instructions in the README.md file to understand the assignment. Please refrain from plagiarism.
-Contributing 🤝
+Contributing  🤝
 Contributions to improve the assignments or add new resources are welcome. Please fork the repository and submit a pull request.
